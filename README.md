@@ -6,3 +6,5 @@ I will be only using html and css here for now, and try to make a good-looking w
 Note: that everything written here are baloney and stuff so this just for display and show offing and stuff like that. For now. In the future I will use this website for actual presentations and real authentic works but not now.
 
 Sources and credits for pictures used here:
+
+-ai generated logo of tree lake is made by MicketLIT, from pixelbay.comm
