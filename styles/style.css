@@ -61,3 +61,13 @@ ul {
     flex-flow: column nowrap;
     gap: 10px;
 }
+
+.chunk1button {
+    font-size: 18px;
+    background-color: #3882F6;
+    color: #F9FAF8;
+    font-weight: bold;
+    width: 150px;
+    border-radius: 10px;
+    padding: 8px;
+}
