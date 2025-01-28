@@ -40,7 +40,7 @@ ul {
 }
 
 .main.image {
-    width: 350px;
+    width: 400px;
     height: auto;
     border: 5px solid #3b5149b8;
     border-radius: 10px;
@@ -54,4 +54,10 @@ ul {
 .welcome.message {
     font-size: 18px;
     color: #E5E7EB;
+}
+
+.inleft {
+    display: flex;
+    flex-flow: column nowrap;
+    gap: 10px;
 }
