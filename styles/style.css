@@ -14,6 +14,7 @@
     justify-content: space-between;
     padding: 10px 0;
     align-items: center;
+    margin-bottom: 50px;
 }
 
 ul {
@@ -29,6 +30,13 @@ ul {
     height: auto;
     border: 5px solid #3b5149b8;
     border-radius: 50%;
+}
+
+.hero {
+    font-size: 48px;
+    color: #F9FAF8;
+    font-weight: 900;
+    max-width: 480px;
 }
 
 .main.image {
