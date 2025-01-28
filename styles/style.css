@@ -24,13 +24,13 @@ ul {
 .logo.image {
     width: 50px;
     height: auto;
-    border: 5px solid #be4523b8;
+    border: 5px solid #359371b8;
     border-radius: 50%;
 }
 
-/* .main.image {
+.main.image {
     width: 500px;
     height: auto;
     border: 5px solid #359371b8;
     border-radius: 10px;
-} */
+}
