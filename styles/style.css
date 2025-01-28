@@ -8,9 +8,17 @@
     padding: 0 200px 200px 200px;
 }
 
-/* .header {
+.header {
     display: flex;
-} */
+    justify-content: space-between;
+}
+
+ul {
+    list-style-type: none;
+    display: flex;
+    font-size: 18px;
+    color: #ESE7EB;
+}
 
 .logo {
     width: 50px;
