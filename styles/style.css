@@ -121,3 +121,9 @@ a {
     padding: 180px 280px;
     background-color:#E5E7EB;
 }
+
+.quote {
+    font-size: 36px;
+    font-style:italic;
+    color: #1F2937;
+}
