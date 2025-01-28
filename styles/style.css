@@ -21,8 +21,12 @@ ul {
     list-style-type: none;
     display: flex;
     font-size: 18px;
-    color: #E5E7EB;
     gap: 25px;
+}
+
+a {
+    text-decoration: none;
+    color: #E5E7EB;
 }
 
 .logo.image {
