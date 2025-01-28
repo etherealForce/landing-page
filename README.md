@@ -7,5 +7,6 @@ Note: that everything written here are baloney and stuff so this just for displa
 
 Sources and credits for pictures used here:
 
--ai generated logo of tree lake is made by MicketLIT, from pixelbay.comm
+
 -Image by <a href="https://pixabay.com/users/yoshitaka2-24545143/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=7559738">yoshitaka2</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=7559738">Pixabay</a>
+Image by <a href="https://pixabay.com/users/major_snow-20528963/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=7704778">Major_Snow</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=7704778">Pixabay</a>

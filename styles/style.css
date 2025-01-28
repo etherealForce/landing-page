@@ -18,12 +18,19 @@ ul {
     list-style-type: none;
     display: flex;
     font-size: 18px;
-    color: #ESE7EB;
+    color: #E5E7EB;
 }
 
-.logo {
+.logo.image {
     width: 50px;
     height: auto;
-    border: 5px solid #f03907b8;
+    border: 5px solid #be4523b8;
     border-radius: 50%;
 }
+
+/* .main.image {
+    width: 500px;
+    height: auto;
+    border: 5px solid #359371b8;
+    border-radius: 10px;
+} */
