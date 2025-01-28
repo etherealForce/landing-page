@@ -79,12 +79,21 @@ a {
 
 .chunk2 {
     text-align: center;
-    display: flex;
-    flex-direction: column;
+    padding: 45px 300px 300px 300px;
 }
 
 .title.ofbirds {
     color: #1F2937;
     font-weight: 900;
     font-size: 36px;    
+    margin-bottom: 45px;
+}
+
+.info {
+    max-width: 200px;   
+}
+
+.bird.image {
+    width: 200px;
+    height: 200px;
 }
