@@ -48,6 +48,7 @@ ul {
 
 .chunk1content {
     display: flex;
+    gap: 50px;
 }
 
 .welcome.message {
