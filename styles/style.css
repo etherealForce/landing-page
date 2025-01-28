@@ -49,3 +49,8 @@ ul {
 .chunk1content {
     display: flex;
 }
+
+.welcome.message {
+    font-size: 18px;
+    color: #E5E7EB;
+}
