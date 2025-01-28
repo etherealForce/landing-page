@@ -116,3 +116,7 @@ a {
     flex-direction: column;
     gap: 20px;
 }
+
+.chunk3 {
+    padding: 180px 280px;
+}
