@@ -6,7 +6,7 @@
 
 .chunk1 {
     background-color: #1F2937;
-    padding: 0 300px 300px 300px;
+    padding: 0 200px 200px 200px;
 }
 
 .header {
@@ -44,7 +44,7 @@ a {
 }
 
 .main.image {
-    width: 400px;
+    width: 450px;
     height: auto;
     border: 5px solid #3b5149b8;
     border-radius: 10px;
@@ -52,18 +52,19 @@ a {
 
 .chunk1content {
     display: flex;
-    gap: 50px;
+    justify-content: space-between;
 }
 
 .welcome.message {
     font-size: 18px;
     color: #E5E7EB;
+    max-width: 500px;;
 }
 
 .inleft {
     display: flex;
     flex-flow: column nowrap;
-    gap: 10px;
+    gap: 20px;
 }
 
 .chunk1button {
@@ -73,5 +74,9 @@ a {
     font-weight: bold;
     width: 150px;
     border-radius: 10px;
-    padding: 8px;
+    padding: 10px;
+}
+
+.chunk2 {
+    text-align: center;
 }
