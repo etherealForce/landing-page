@@ -144,6 +144,12 @@ a {
     align-items: center;
 }
 
+.leftside {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
 .bluebox {
     background-color: #3882F6;
     border-radius: 10px;
