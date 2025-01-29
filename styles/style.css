@@ -163,3 +163,14 @@ a {
     font-size: 18px;
     color:#E5E7EB;
 }
+
+.chunk4button {
+    background-color:#3882F6;
+    font-weight: bold;
+    font-size: 20px;
+    width: 180px;
+    color:#F9FAF8;
+    border: 2px solid #F9FAF8;
+    border-radius: 15px;
+    padding: 10px;
+}
