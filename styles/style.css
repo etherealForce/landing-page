@@ -143,3 +143,11 @@ a {
     justify-content: center;
     align-items: center;
 }
+
+.bluebox {
+    background-color: #3882F6;
+    border-radius: 15px;
+    padding: 50px 100px;
+    display: flex;
+    gap: 150px;
+}
