@@ -146,8 +146,20 @@ a {
 
 .bluebox {
     background-color: #3882F6;
-    border-radius: 15px;
+    border-radius: 10px;
     padding: 50px 100px;
     display: flex;
     gap: 150px;
+}
+
+.calltoaction {
+    font-weight: bold;
+    color:#F9FAF8;
+    font-size: 24px;
+
+}
+
+.persuasion {
+    font-size: 18px;
+    color:#E5E7EB;
 }
