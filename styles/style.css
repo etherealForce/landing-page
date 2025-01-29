@@ -180,3 +180,15 @@ a {
     border-radius: 15px;
     padding: 10px;
 }
+
+
+.footer {
+    background-color:#1F2937;
+    font-size: 18px;
+    color:#E5E7EB;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 30px;
+}
