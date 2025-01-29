@@ -136,3 +136,10 @@ a {
     width: 400px;
     margin-left: auto;
 }
+
+.chunk4 {
+    padding: 180px 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
